@@ -92,7 +92,10 @@ src/
 ├── App.js
 └── App.css
 ```
-
+---
+## Challenges
+    Maintaing the code structure and handling the data was bit complex.
+---
 ---
 
 ## Author
